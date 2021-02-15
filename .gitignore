@@ -1,5 +1,8 @@
 chromedriver.exe
 index-1.html
+Mission_to_Mars.ipynb
+Mission_to_Mars.py
+Mission_to_Mars_Challenge.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
