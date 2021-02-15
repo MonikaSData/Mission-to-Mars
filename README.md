@@ -76,6 +76,7 @@ Store retrieved data in a NoSQL database, and then render the data in a web appl
    
     **Snapshot of final webpage**
 
+    ![Images/Mission_to_Mars_Webpage](Images/Mission_to_Mars_Webpage.png)
 
 
     
