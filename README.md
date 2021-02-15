@@ -36,7 +36,7 @@ Store retrieved data in a NoSQL database, and then render the data in a web appl
             url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
             browser.visit(url)
 
-        #Create a list to hold the images and titles.
+            #Create a list to hold the images and titles.
             hemisphere_image_urls = []
             #create BeautifulSoup object and parse
             hemispheres_soup = soup(browser.html, 'html.parser')
